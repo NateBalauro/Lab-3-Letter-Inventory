@@ -9,7 +9,7 @@ import java.util.*;
 
 public class LetterInventory {
 	
-   private static char[] letters; //org stores the letters in alphabetial order
+   private static char[] letters; //letters stores the letters in alphabetial order
 	private static char[] alphabet = new char[] {'a','b','c','d','e','f','g','h',
             'i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
 	
